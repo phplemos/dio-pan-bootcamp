@@ -11,7 +11,7 @@ public class Pilha {
     public void push(No novoNo) {
         No refAuxiliar = refNoEntradaPilha;
         refNoEntradaPilha = novoNo;
-        refNoEntradaPilha.setRefNo(refAuxiliar);
+        refNoEntradaPilha.setRefNo(refAuxiliar);    
     }
 
     public No pop() {
