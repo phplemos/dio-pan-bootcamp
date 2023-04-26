@@ -1,6 +1,6 @@
 package com.projeto.oo;
 
-public class Carro {
+public class Carro extends Veiculo {
 
     String cor;
     String modelo;
