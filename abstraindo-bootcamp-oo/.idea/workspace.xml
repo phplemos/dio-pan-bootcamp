@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d285d827-eac1-4c3f-a8c9-5d6ab9988883" name="Changes" comment="Mentoria e Curso">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso/BootCamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.dio.desafio.dominio.Curso" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -75,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682698234899</updated>
-      <workItem from="1682698236336" duration="2417000" />
+      <workItem from="1682698236336" duration="4098000" />
     </task>
     <task id="LOCAL-00001" summary="Mentoria e Curso">
       <created>1682700052666</created>

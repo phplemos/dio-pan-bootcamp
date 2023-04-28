@@ -1,7 +1,7 @@
 package br.com.dio.desafio.dominio.Curso;
 
 public class Curso extends Conteudo{
-    private Integer cargaHoraria;
+    private int cargaHoraria;
 
     public Curso(){
     }
