@@ -1,0 +1,7 @@
+mprovements
+[Recently Viewed Items] Disable button if no items #6503
+
+Bug Fixes
+Cannot add annotations on newly create notebook entry #6411
+Annotations on empty entries in notebook are lost #6156
+S…

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="766fe856-45b6-4b41-a523-a1db8b7a4ef3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exception/src/main/java/dio/phplemos/exception/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/main/java/dio/phplemos/exception/UncheckedExecption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/main/romances-black-crouch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java/Collections/src/dio/phplemos/list/exercicio/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java/Collections/src/dio/phplemos/list/exercicioproposto1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java/Collections/src/dio/phplemos/map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java/Collections/src/dio/phplemos/set/ArcoIris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java/Collections/src/dio/phplemos/set/ConhecendoMetodosSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java/Collections/src/dio/phplemos/set/OrdenacaoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java/Collections/src/dio/phplemos/stream/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2P2ZF0Rula7UNgLcGmlmKyxhVWB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Projetos/dio-pan-bootcamp/gerenciamento-dependencias-maven-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="gerenciamento-dependecias-maven-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="766fe856-45b6-4b41-a523-a1db8b7a4ef3" name="Changes" comment="" />
+      <created>1682657031350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682657031350</updated>
+      <workItem from="1682657032543" duration="748000" />
+      <workItem from="1682660332852" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
