@@ -77,6 +77,9 @@
       <updated>1682698234899</updated>
       <workItem from="1682698236336" duration="4432000" />
       <workItem from="1682716224848" duration="119000" />
+      <workItem from="1682735593870" duration="28000" />
+      <workItem from="1682960997862" duration="1814000" />
+      <workItem from="1683257599299" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="Mentoria e Curso">
       <created>1682700052666</created>
@@ -94,5 +97,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mentoria e Curso" />
     <option name="LAST_COMMIT_MESSAGE" value="Mentoria e Curso" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
